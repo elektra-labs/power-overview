@@ -27,12 +27,18 @@ PoWer bewertet **weder Personen noch Teams noch Ergebnisse**.
 
 PoWer dient der:
 
-* besseren Verständigung unterschiedlicher Arbeitslogiken
-* passgenaueren Zuordnung von Aufgaben, Kontexten und Arbeitsweisen
-* Reduktion struktureller Reibung in unterschiedlichen Arbeitskontexten
-* verantwortungsvollen Gestaltung und Nutzung von KI in menschlichen Arbeitskontexten
+* **klaren Verständigung** unterschiedlicher Arbeitslogiken (z. B. zwischen Personen, Rollen, Teams oder Systemen)
+* **kontextsensiblen Zuordnung** von Aufgaben, Arbeitsweisen und Entscheidungsräumen – ohne Bewertung oder Selektion
+* **Reduktion struktureller Reibung**, die aus impliziten, widersprüchlichen oder nicht benannten Arbeitsannahmen entsteht
+* **bewussten und verantwortungsvollen Gestaltung** der Zusammenarbeit zwischen Menschen sowie zwischen Mensch und KI
 
-Ziel ist **Orientierung und Verständnis**, nicht Optimierung oder Selektion.
+Für **Einzelpersonen** schafft PoWer sprachliche und strukturelle Orientierung über die eigene Arbeitslogik.
+
+Für **Teams, Organisationen und Institutionen** ermöglicht PoWer ein gemeinsames Verständnis unterschiedlicher Arbeitsweisen, ohne diese zu normieren oder zu vereinheitlichen.
+
+Ziel ist **Orientierung, Transparenz und Verständigung** – nicht Optimierung, Bewertung oder Selektion.
+
+PoWer selbst trifft **keine Zuordnungen**, gibt **keine Empfehlungen** und leitet **keine Entscheidungen** ab; solche Anwendungen liegen ausdrücklich außerhalb des Frameworks.
 
 ---
 
