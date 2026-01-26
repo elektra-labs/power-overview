@@ -1,5 +1,5 @@
 # PoWer – Proof of Workstyle  
-## Lizenz für das Overview-Repository
+## Nutzungs- und Lizenzbedingungen für das Overview-Repository
 
 Copyright © 2026, Iris Huber, denkbetrieb  
 Alle Rechte vorbehalten.
