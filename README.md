@@ -25,7 +25,7 @@ PoWer evaluates **neither individuals, nor teams, nor outcomes**.
 
 ## 3. What is PoWer for?
 
-PoWer serves the:
+PoWer serves:
 
 * **clear articulation** of different work logics (e.g. between individuals, roles, teams, or systems)
 * **mapping** of tasks, work practices, and decision spaces — without evaluation or selection
