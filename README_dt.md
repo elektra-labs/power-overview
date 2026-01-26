@@ -2,7 +2,7 @@
 
 ## 1. Was ist PoWer?
 
-**PoWer (Proof of Workstyle)** ist ein **deskriptives Framework** **zur wertfreien Beschreibung von** **Arbeitslogiken** über unterschiedliche Arbeitskontexte hinweg, einschließlich komplexer wissensbasierter Arbeits- und Mensch–KI‑Kooperationskontexte.
+**PoWer (Proof of Workstyle)** ist ein **deskriptives Framework** **zur wertneutralen Beschreibung von** **Arbeitslogiken** über unterschiedliche Arbeitskontexte hinweg, einschließlich komplexer wissensbasierter Arbeits- und Mensch–KI‑Kooperationskontexte.
 
 PoWer beschreibt, **wie Arbeit strukturiert ist**, nicht wie gut, effizient oder wünschenswert sie ist.
 
