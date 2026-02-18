@@ -74,6 +74,26 @@ Konzept, Begriffsarchitektur und strukturelle Grundannahmen wurden von der Urheb
 
 Dieses Repository dient zugleich der **zeitlichen und inhaltlichen Dokumentation (Prior Art)** der konzeptionellen Meta‑Ebene **sowie der Existenz und Urheberschaft des nicht‑öffentlichen methodischen Cores**. Es begründet keine Freigabe zur Nutzung, Implementierung oder Ableitung.
 
+
+### Abgrenzung zu bestehenden Systemansätzen (Stand: Februar 2026 – Ergänzung zur ursprünglichen Veröffentlichung vom Januar 2026)
+
+PoWer ist nicht als Weiterentwicklung bestehender User-Modeling-, Profiling- oder Entscheidungsunterstützungssysteme konzipiert.
+
+Zwar existieren in angrenzenden Disziplinen:
+
+- servicebasierte User-Model-Architekturen  
+- Traceability- und Ontologie-Frameworks  
+- adaptive oder prädiktive Profiling-Systeme  
+
+PoWer unterscheidet sich jedoch grundlegend durch:
+
+- die konsequente **strukturelle Trennung von Beschreibung und Interpretation**
+- die Definition von Workstyle-Signaturen als **rein deskriptive Artefakte**
+- den Verzicht auf Bewertung, Scoring, Prognose oder Optimierung im Kern
+- die Integration von Versionierung und Nachvollziehbarkeit als Bestandteil des Standards selbst
+
+Diese strukturelle Reinheit bildet den konzeptionellen Kern des Frameworks.
+
 ---
 
 ## 7. Kontakt
