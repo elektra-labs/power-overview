@@ -74,6 +74,27 @@ The concept, terminological architecture, and structural foundations were develo
 
 This repository also serves the **temporal and substantive documentation (prior art)** of the conceptual meta level **as well as the existence and authorship of the non-public methodological core**. It does not constitute permission for use, implementation, or derivation.
 
+### Delineation from Existing System Approaches  
+(Status: February 2026 – amendment to the original January 2026 publication)
+
+PoWer is not conceived as an extension of existing user modeling, profiling, or decision-support systems.
+
+While related disciplines include:
+
+- service-based user model architectures  
+- traceability and ontology frameworks  
+- adaptive or predictive profiling systems  
+
+PoWer differs fundamentally through:
+
+- the consistent structural separation of description and interpretation  
+- the definition of workstyle signatures as purely descriptive artifacts  
+- the absence of evaluation, scoring, prediction, or optimization at its core  
+- the integration of versioning and traceability as intrinsic components of the standard itself  
+
+This descriptive–interpretive layer distinction constitutes the conceptual core of the framework.
+
+
 ---
 
 ## 7. Contact
